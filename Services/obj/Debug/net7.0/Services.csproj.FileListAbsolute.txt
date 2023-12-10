@@ -1,0 +1,17 @@
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Services.deps.json
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Services.dll
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Services.pdb
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.dll
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\refint\Services.dll
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.pdb
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\ref\Services.dll
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Core.dll
+E:\visual studio\Veseeta\Services\bin\Debug\net7.0\Core.pdb
+E:\visual studio\Veseeta\Services\obj\Debug\net7.0\Services.csproj.CopyComplete

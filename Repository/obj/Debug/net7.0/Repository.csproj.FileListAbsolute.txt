@@ -1,0 +1,17 @@
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Repository.dll
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Repository.pdb
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.dll
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.pdb
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\ref\Repository.dll
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Core.dll
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Core.pdb
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+E:\visual studio\Veseeta\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+E:\visual studio\Veseeta\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\visual studio\Veseeta\Core\bin\Debug\net7.0\Core.deps.json
+E:\visual studio\Veseeta\Core\bin\Debug\net7.0\Core.dll
+E:\visual studio\Veseeta\Core\bin\Debug\net7.0\Core.pdb
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.dll
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\refint\Core.dll
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.pdb
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\ref\Core.dll
+E:\visual studio\Veseeta\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache

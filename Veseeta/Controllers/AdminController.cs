@@ -10,7 +10,7 @@ using Services;
 
 namespace Veseeta.Controllers
 {
-    //[Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin")]
     [Route("api/[controller]")]
     [ApiController]
     
